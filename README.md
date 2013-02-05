@@ -23,3 +23,5 @@ helloGitHub
 
     $ git clone git://github.com/gotgithub/helloworld.git
 My first GitHub project
+
+这是在zizifn1提交修改后，并没有合并时候，和zizifn2fork了zizifn后，然后修改文件的。
